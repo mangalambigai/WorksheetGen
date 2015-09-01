@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WorksheetGen" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="xmlfile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\k2math\xml\worksheets.xml</Value>
+    </Setting>
+    <Setting Name="pdffolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\k2math\pdfs\</Value>
+    </Setting>
+    <Setting Name="website_signature" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Find more worksheets at https://sites.google.com/site/k2mathworksheet</Value>
+    </Setting>
+    <Setting Name="imagesfolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\pdfs\images</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

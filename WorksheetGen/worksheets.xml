@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
+<sheets>
+  <group name="Mystery Animal Addition- Zoo Animals" operation="addition" columns ="4" rows="3" digits="1">
+    <sheet answer ="MONKEY"/>
+    <sheet answer ="ZEBRA"/>
+    <sheet answer ="GIRAFFE"/>
+    <sheet answer ="LION"/>
+    <sheet answer ="TIGER"/>
+    <sheet answer ="HIPPOPOTAMUS"/>
+    <sheet answer ="RHINOCEROS"/>
+    <sheet answer ="ELEPHANT"/>
+    <sheet answer ="CHEETAH"/>
+  </group>
+  <group name ="Mystery Animal Addition- Farm Animals"  operation="addition" columns ="4" rows="3" digits="1">
+    <sheet answer ="GOAT"/>
+    <sheet answer ="SHEEP"/>
+    <sheet answer ="COW"/>
+    <sheet answer ="PIG"/>
+    <sheet answer ="DUCK"/>
+  </group>
+  <group name="Dinosaur Addition" operation="addition" columns="4" rows="4" digits="2">
+    <sheet answer="VELOCIRAPTOR"/>
+
+    <sheet answer="ACROCANTHOSAURUS"/>
+    <sheet answer="ALBERTOSAURUS"/>
+    <sheet answer="ALIORAMUS"/>
+    <sheet answer="ALLOSAURUS"/>
+    <sheet answer="BARYONYX"/>
+    <!--sheet answer="CARCHARODONTOSAURUS"/-->
+    <sheet answer="CARNOTAURUS"/>
+    <sheet answer="CERATOSAURUS"/>
+    <sheet answer="DASPLETOSAURUS"/>
+    <sheet answer="DILOPHOSAURUS"/>
+    <!--sheet answer="EUSTREPTOSPONDYLUS"/>-->
+    <sheet answer="GIGANOTOSAURUS"/>
+    <sheet answer="MEGALOSAURUS"/>
+    <sheet answer="SPINOSAURUS"/>
+    <sheet answer="SUCHOMIMUS"/>
+    <sheet answer="TARBOSAURUS"/>
+    <sheet answer="TYRANNOSAURUS"/>
+    <sheet answer="APATOSAURUS"/>
+    <sheet answer="ARGENTINOSAURUS"/>
+    <sheet answer="MAIASAURA"/>
+    <sheet answer="PTERANODON"/>
+    <sheet answer="TROODON"/>
+    <sheet answer="OVIRAPTOR"/>
+  </group>
+  <group name="Solar System Addition" operation="addition" columns="4" rows="3" digits="2">
+    <sheet answer="MERCURY" hint="I am the smallest planet in the solar system. I am the closest planet to sun." textcolor="green" titlecolor="blue"/>
+    <sheet answer="VENUS" hint="I am the closest planet to Earth. I am the brightest planet in your sky. I am Earth's Twin. I am called the Evening Star." textcolor="red" titlecolor="brown"/>
+    <sheet answer="EARTH" hint="I am the only planet known to have life. I am a blue planet. You live on me." textcolor="blue" titlecolor="green" />
+    <sheet answer="MARS" hint="I am the red planet. " />
+    <sheet answer="JUPITER" hint="I am the largest planet." />
+    <sheet answer="SATURN" hint="I have beautiful rings" />
+    <sheet answer="URANUS" hint="" />
+    <sheet answer="NEPTUNE" hint="" />
+    <sheet answer="PLUTO" hint="I am the first dwarf planet." />
+    <sheet answer="SUN" hint="I am your star. I am the center of my solar system." />
+    <sheet answer="MOON" hint="I am earth's natural satellite." />
+    <sheet answer="MILKY WAY" hint="Solar system is in this galaxy." />
+  </group>
+  <group name="Princess Subtraction" operation="subtraction" columns="4" rows="3" digits="2">
+    <sheet answer="SNOW WHITE" hint="Mirror Mirror on the wall! Who is the fairest of them all?" />
+    <sheet answer="RAPUNZEL" hint="Let down my hair? Use a ladder!" />
+    <sheet answer="CINDERELLA" hint="My stepsisters are gone to the Prince's party. I want to go too...   " />
+  </group>
+  <group name="BeyBlades" operation="addition" columns="4" rows="4" digits="2">
+    <sheet answer="STORM PEGASUS" hint="" />
+    <sheet answer="STORM CAPRICORN" hint="" />
+    <sheet answer="FIRE BLAZE" hint="" />
+    <sheet answer="DARK WOLF" hint="" />
+    <sheet answer="ROCK LEONE" hint="" />
+    <sheet answer="EL DRAGO" hint="" />
+    <sheet answer="SAGITTARIO" hint=""/>
+  </group>
+</sheets>
